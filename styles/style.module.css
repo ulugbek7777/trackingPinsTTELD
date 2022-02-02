@@ -1,0 +1,76 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+.logo_image {
+    height: 20px;
+}
+.left_sidebar {
+    height: 100vh;
+    width: 20vw;
+    background-color: #F2F5F9;
+}
+.right_sidebar {
+    width: 80vw;
+}
+.block {
+    width: 90%;
+    margin: 0 auto;
+}
+.header {
+    background-color: #FFFFFF;
+    border-radius: 0 0px 4px 4px;
+}
+.logo {
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    margin: 0;
+ }
+ .logo_text {
+    color: #281a05;
+    font-size: 3rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-left: 10px;
+ }
+ .company {
+    position: relative;
+    margin-top: 15px;
+    background-color: #FFFFFF;
+    border-radius: 4px;
+}
+.cmp_name_icon {
+    align-self: center;
+    margin-left: 5%;
+    padding-top: 20px;
+}
+.comapany_text {
+    margin-left: 15px;
+    font-size: 18px;
+    color: #27AE60
+}
+.driver_data {
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.left {
+    position: relative;
+    width: 100%;
+    display: inline-block;
+}
+.info {
+    margin-top: 20px;
+}
+.infoText {
+    color: #9396A1;
+    font-size: 16px;
+}
+.infoData {
+    color: #08121D;
+    margin: 10px 0 0 0;
+    font-size: 18px;
+}
